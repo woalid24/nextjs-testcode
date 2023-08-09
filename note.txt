@@ -2,7 +2,7 @@ my-app/
 
 │   ├── Layout.js     # Example component and main root Layout
 
-     |--- page.js # Example pages ...
+     |--- page.js # Example pages like Home page ...
 │   
 ├── public/           # Publicly accessible files (images, fonts, etc.)
 │   ├── image.jpg
